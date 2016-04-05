@@ -12,6 +12,7 @@ namespace WeatherInformer.Controllers
         {
             ViewBag.Title = "Home Page";
 
+
             return View();
         }
     }
